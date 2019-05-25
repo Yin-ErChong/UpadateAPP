@@ -1,0 +1,9 @@
+C:\Users\Administrator\Source\Repos\UpadateAPP\UpadateAPP\bin\Debug\UpadateAPP.exe.config
+C:\Users\Administrator\Source\Repos\UpadateAPP\UpadateAPP\bin\Debug\UpadateAPP.exe
+C:\Users\Administrator\Source\Repos\UpadateAPP\UpadateAPP\bin\Debug\UpadateAPP.pdb
+C:\Users\Administrator\Source\Repos\UpadateAPP\UpadateAPP\obj\Debug\UpadateAPP.Form1.resources
+C:\Users\Administrator\Source\Repos\UpadateAPP\UpadateAPP\obj\Debug\UpadateAPP.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\UpadateAPP\UpadateAPP\obj\Debug\UpadateAPP.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\UpadateAPP\UpadateAPP\obj\Debug\UpadateAPP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\UpadateAPP\UpadateAPP\obj\Debug\UpadateAPP.exe
+C:\Users\Administrator\Source\Repos\UpadateAPP\UpadateAPP\obj\Debug\UpadateAPP.pdb
